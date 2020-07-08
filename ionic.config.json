@@ -1,0 +1,7 @@
+{
+  "name": "chorstore-ionic-part",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
